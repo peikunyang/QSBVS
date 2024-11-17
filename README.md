@@ -21,3 +21,4 @@ Ensure the following Python packages are installed:
 To install dependencies, run:
 ```bash
 pip install numpy
+pip install pennylane
