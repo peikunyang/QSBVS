@@ -17,6 +17,7 @@ This Python script generates a **unitary matrix**, where the elements of the fir
 ### Dependencies
 Ensure the following Python packages are installed:
 - `numpy`
+- `pennylane`
 
 To install dependencies, run:
 ```bash
