@@ -8,7 +8,7 @@ This Python script generates a **unitary matrix**, where the elements of the fir
 ## Features
 - Creates an <i>n × n</i> unitary matrix.
 - Ensures the **first row elements** match the user-provided numerical inputs.
-- Automatically adjusts other matrix elements to satisfy the unitary condition (\( U^\dagger U = I \)).
+- Automatically adjusts other matrix elements to satisfy the unitary condition (U†U = I).
 
 ---
 
